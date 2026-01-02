@@ -1,0 +1,19 @@
+ecommerce-website/
+├── backend/
+│   ├── server.js
+│   ├── db.js
+│   ├── models/
+│   │   └── Product.js
+│   ├── routes/
+│   │   └── productRoutes.js
+│   └── package.json
+│
+├── frontend/
+│   ├── index.html
+│   ├── cart.html
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── app.js
+│
+└── README.md
